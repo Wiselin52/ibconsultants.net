@@ -12,3 +12,12 @@ focus-page-header:
 focus_video:
   - 'a:2:{s:6:"public";a:5:{s:4:"type";s:8:"external";s:8:"external";s:0:"";s:4:"self";s:0:"";s:6:"remote";s:0:"";s:6:"custom";s:0:"";}s:7:"premium";a:5:{s:4:"type";s:8:"external";s:8:"external";s:0:"";s:4:"self";s:0:"";s:6:"remote";s:0:"";s:6:"custom";s:0:"";}}'
 ---
+
+							<a href="" target="_blank">
+				</a>
+							<a href="" target="_blank">
+				</a>
+							<a href="" target="_blank">
+				</a>
+							<a href="" target="_blank">
+				</a>
