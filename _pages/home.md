@@ -12,4 +12,13 @@ focus-page-header:
 focus_video:
   - 'a:2:{s:6:"public";a:5:{s:4:"type";s:8:"external";s:8:"external";s:0:"";s:4:"self";s:0:"";s:6:"remote";s:0:"";s:6:"custom";s:0:"";}s:7:"premium";a:5:{s:4:"type";s:8:"external";s:8:"external";s:0:"";s:4:"self";s:0:"";s:6:"remote";s:0:"";s:6:"custom";s:0:"";}}'
 ---
-<div id="pl-302"  class="panel-layout" ><div id="pg-302-0"  class="panel-grid panel-no-style" ><div id="pgc-302-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-302-0-0-0" class="so-panel widget panel-first-child panel-last-child" data-index="0" ></div></div></div></div>
+
+							<a href="" target="_blank">
+				</a>
+							<a href="" target="_blank">
+				</a>
+							<a href="" target="_blank">
+				</a>
+							<a href="" target="_blank">
+				</a>
+		<iframe  src="https://www.eventbrite.com/countdown-widget?eid=35059490881" frameborder="0" height="452" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><a style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a><iframe  src="https://www.eventbrite.com/countdown-widget?eid=35221070169" frameborder="0" height="439" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><a style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a>
