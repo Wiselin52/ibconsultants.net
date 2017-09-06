@@ -15,5 +15,5 @@ post_date: 2017-05-10 00:56:28
 					<figure>
 						<a href="http://ibcllc.eventbrite.com/" data-elementor-open-lightbox="default">
 		<img width="292" height="300" src="http://ibconsultants.net/wp-content/uploads/2017/05/Calander-Icon-292x300.png" alt="" srcset="https://ibconsultants.net/wp-content/uploads/2017/05/Calander-Icon-292x300.png 292w, https://ibconsultants.net/wp-content/uploads/2017/05/Calander-Icon-768x788.png 768w, https://ibconsultants.net/wp-content/uploads/2017/05/Calander-Icon-998x1024.png 998w, https://ibconsultants.net/wp-content/uploads/2017/05/Calander-Icon.png 1000w" sizes="(max-width: 292px) 100vw, 292px" />				</a>
-						<figcaption>Check our Event Calander</figcaption>
+						<figcaption>Check out our Event Calander</figcaption>
 					</figure>
