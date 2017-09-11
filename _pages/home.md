@@ -17,3 +17,6 @@ post_date: 2017-05-09 17:38:01
 				</a>
 							<a href="https://twitter.com/Ibconsultants1" target="_blank">
 				</a>
+			<a href="https://ibconsultants.net/events/">
+						Check out our up coming Training Events
+					</a>
